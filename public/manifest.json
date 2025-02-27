@@ -1,0 +1,13 @@
+{
+  "name": "Hospital PWA",
+  "short_name": "HospitalApp",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#565666",
+  "icons": [
+    { "src": "icons/icon-128x128.png", "sizes": "192x192", "type": "hospital_icon_128x128.png" },
+    { "src": "icons/icon-192x192.png", "sizes": "192x192", "type": "hospital_icon_192x192.png" },
+    { "src": "icons/icon-512x512.png", "sizes": "512x512", "type": "hospital_icon_512x512.png" }
+  ]
+}
